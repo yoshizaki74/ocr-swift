@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "ocr_app_icon_with_custom_gradient (1).png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
